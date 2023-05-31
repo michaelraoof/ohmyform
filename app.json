@@ -1,8 +1,8 @@
 {
   "name": "ohmyform",
   "description": "Opensource alternative to TypeForm",
-  "repository": "https://github.com/ohmyform/ohmyform",
-  "logo": "https://raw.githubusercontent.com/ohmyform/ohmyform/master/public/logo.png",
+  "repository": "https://github.com/michaelraoof/ohmyform",
+  "logo": "https://raw.githubusercontent.com/michaelraoof/ohmyform/master/public/logo.png",
   "keywords": [
     "form",
     "survey"
