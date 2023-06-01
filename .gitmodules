@@ -1,7 +1,7 @@
 [submodule "ui"]
 	path = ui
-	url = https://github.com/michaelraoof/ui/
+	url = https://github.com/michaelraoof/ohmyform/ui
 
 [submodule "api"]
 	path = api
-	url = https://github.com/michaelraoof/api/
+	url = https://github.com/michaelraoof/ohmyform/api
